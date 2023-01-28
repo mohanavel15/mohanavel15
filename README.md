@@ -13,10 +13,10 @@ impl AboutMe for Mohan {
 
   fn get_technologies(&self) -> Vec<&'static str> {
     vec![
-      "Go", "Rust", "JavaScript", "TypeScript",
+      "Go", "Rust", "JavaScript", "TypeScript", "Python",
       "HTML", "CSS", "React JS", "Solid JS", "NGINX",
-      "TailwindCSS", "Go Fiber", "Gorilla Web Toolkit",
-      "PostgreSQL", "MongoDB", "Docker", "Linux",
+      "TailwindCSS", "Go Fiber", "Gorilla Web Toolkit", 
+      "Flask", "FastAPI", "PostgreSQL", "MongoDB", "Docker", "Linux"
     ]
   }
 
