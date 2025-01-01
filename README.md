@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohanavel and I'm a CS student, from India</p>
+<p align="left">I'm Mohanavel, A CS student from India</p>
 
 ###
 
